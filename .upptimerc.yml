@@ -5,6 +5,8 @@ repo: uptime-checker # The name of this repository
 sites:
   - name: SmallBigWedding
     url: https://www.smallbigwedding.kr/
+  - name: Naver
+    url: https://www.naver.com/
 
 status-website:
   baseUrl: /uptime-checker
