@@ -4,26 +4,26 @@
     "url": "https://www.smallbigwedding.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.smallbigwedding.kr.ico",
     "slug": "small-big-wedding",
-    "status": "down",
+    "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "70.37%",
-    "uptimeWeek": "68.13%",
+    "uptimeDay": "70.29%",
+    "uptimeWeek": "68.14%",
     "uptimeMonth": "92.67%",
     "uptimeYear": "97.67%",
-    "time": 1248,
-    "timeDay": 1522,
-    "timeWeek": 1388,
-    "timeMonth": 1295,
-    "timeYear": 1248,
+    "time": 1250,
+    "timeDay": 1688,
+    "timeWeek": 1412,
+    "timeMonth": 1299,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2025-05-29": 220,
+      "2025-05-29": 231,
       "2025-05-28": 495,
       "2025-05-27": 466,
       "2025-05-26": 269,
       "2025-05-25": 521,
       "2025-05-24": 573,
       "2025-05-23": 407,
-      "2025-05-22": 262
+      "2025-05-22": 250
     }
   }
 ]
