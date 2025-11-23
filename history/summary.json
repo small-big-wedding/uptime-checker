@@ -6,24 +6,24 @@
     "slug": "small-big-wedding",
     "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "75.93%",
+    "uptimeDay": "74.40%",
     "uptimeWeek": "66.61%",
     "uptimeMonth": "92.32%",
     "uptimeYear": "99.15%",
-    "time": 1311,
+    "time": 1310,
     "timeDay": 1386,
-    "timeWeek": 1321,
-    "timeMonth": 1281,
-    "timeYear": 1311,
+    "timeWeek": 1325,
+    "timeMonth": 1280,
+    "timeYear": 1310,
     "dailyMinutesDown": {
-      "2025-11-23": 90,
+      "2025-11-23": 112,
       "2025-11-22": 365,
       "2025-11-21": 730,
       "2025-11-20": 314,
       "2025-11-19": 474,
       "2025-11-18": 613,
       "2025-11-17": 583,
-      "2025-11-16": 196
+      "2025-11-16": 174
     }
   }
 ]
