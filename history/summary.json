@@ -4,7 +4,7 @@
     "url": "https://www.smallbigwedding.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.smallbigwedding.kr.ico",
     "slug": "small-big-wedding",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
     "uptimeDay": "64.31%",
     "uptimeWeek": "66.26%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.14%",
     "time": 1312,
     "timeDay": 1377,
-    "timeWeek": 1371,
+    "timeWeek": 1373,
     "timeMonth": 1303,
     "timeYear": 1312,
     "dailyMinutesDown": {
