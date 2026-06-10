@@ -5,6 +5,16 @@ repo: uptime-checker # The name of this repository
 sites:
   - name: SmallBigWedding
     url: https://www.smallbigwedding.kr/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - name: CustomCharacter
+    url: https://customcharacter.smallbigwedding.kr/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - name: Invitation
+    url: https://invitation.smallbigwedding.kr/login
+    headers:
+      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 status-website:
   baseUrl: /uptime-checker
